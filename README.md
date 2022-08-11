@@ -1,16 +1,22 @@
-# todo_app
+## Demo App
 
-A new Flutter project.
+# Onboarding
+![image](https://user-images.githubusercontent.com/94362297/184129801-7b20e089-6a14-4d08-82e8-c465dc56643e.png)
 
-## Getting Started
+# Home page
+![image](https://user-images.githubusercontent.com/94362297/184129913-b2b1c772-c99a-4dbb-bcb0-de2896f609c1.png)
 
-This project is a starting point for a Flutter application.
+# Add task page
+![image](https://user-images.githubusercontent.com/94362297/184129960-0569286d-e48a-4be2-a07c-71a850d50c66.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tutorial
+- Part 1: https://www.youtube.com/watch?v=2L8maZUY2hU&pp=ugMICgJ2aRABGAE%3D
+- Part 2: https://www.youtube.com/watch?v=6SaCntGgi5o
+- Part 3: https://www.youtube.com/watch?v=pQSTgf-6hDk
+- CRUD with Firebase: https://www.youtube.com/watch?v=ErP_xomHKTw
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Uncompleted features:
+- Edit task
+- Notification task
+- Change to dark theme
